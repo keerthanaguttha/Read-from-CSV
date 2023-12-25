@@ -29,3 +29,4 @@ print("Number of columns:",len(df.axes[1]))
 ![](6-1.jpg)
 ![](6-2.jpg)
 ## RESULT:
+Thus python program for reading content from a CSV file is successful.
