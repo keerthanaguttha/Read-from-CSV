@@ -14,6 +14,7 @@ Use len() method to get the required contents from the file.
 ### Step 5:
 Display the result.
 ## PROGRAM:
+```
 '''
 Developed by: Guttha KEERTHANA
 Register No: 212223240045
@@ -25,6 +26,7 @@ print(df.head(10))
 print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
+```
 ## OUTPUT:
 ![](6-1.jpg)
 ![](6-2.jpg)
